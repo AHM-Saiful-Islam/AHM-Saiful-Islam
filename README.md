@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AHM-Saiful-Islam
 - 👀 I’m interested in Software development and Testing & ex-T4Test as a Software Engineer in Test.
-- 🌱 My Skill: API Testing, UI Testing, Test Automation, Python, Selenium, Postman, Automation, Docker, Jenkins, CI/CD, 
+- 🌱 API Testing, UI Testing, Test Automation, Python, Selenium, Postman, Automation, Docker, Jenkins, CI/CD, 
 - 💞️ I’m looking to collaborate on the Software Testing project.
 - 📫 You can reach me via mail, ISLAMAHMSAIFUL@GMAIL.COM
 
